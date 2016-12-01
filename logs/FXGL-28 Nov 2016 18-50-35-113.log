@@ -1,0 +1,118 @@
+28 Nov 2016, 18:50:35.144 [   INFO] [   FXGL.SystemLogger] [JavaFX Application Thread] System Logger is initialized
+28 Nov 2016, 18:50:35.166 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Logging System Info
+28 Nov 2016, 18:50:35.166 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] CPU cores: 4
+28 Nov 2016, 18:50:35.169 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Free Memory: 14MB
+28 Nov 2016, 18:50:35.169 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Max Memory: 248MB
+28 Nov 2016, 18:50:35.170 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Total Memory: 16MB
+28 Nov 2016, 18:50:35.170 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] System Properties:
+28 Nov 2016, 18:50:35.172 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86
+28 Nov 2016, 18:50:35.172 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.desktop=windows
+28 Nov 2016, 18:50:35.173 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.io.unicode.encoding=UnicodeLittle
+28 Nov 2016, 18:50:35.173 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.cpu.endian=little
+28 Nov 2016, 18:50:35.173 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+28 Nov 2016, 18:50:35.173 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] file.separator=\
+28 Nov 2016, 18:50:35.174 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vendor=Oracle Corporation
+28 Nov 2016, 18:50:35.174 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.boot.class.path=C:\Program Files\Java\jre1.8.0_111\lib\resources.jar;C:\Program Files\Java\jre1.8.0_111\lib\rt.jar;C:\Program Files\Java\jre1.8.0_111\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_111\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_111\lib\jce.jar;C:\Program Files\Java\jre1.8.0_111\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_111\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_111\classes
+28 Nov 2016, 18:50:35.174 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.ext.dirs=C:\Program Files\Java\jre1.8.0_111\lib\ext;C:\Windows\Sun\Java\lib\ext
+28 Nov 2016, 18:50:35.175 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.version=1.8.0_111
+28 Nov 2016, 18:50:35.175 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.info=mixed mode
+28 Nov 2016, 18:50:35.175 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] awt.toolkit=sun.awt.windows.WToolkit
+28 Nov 2016, 18:50:35.175 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.language=en
+28 Nov 2016, 18:50:35.176 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.specification.vendor=Oracle Corporation
+28 Nov 2016, 18:50:35.176 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.java.command=PacTheJumper.PacTheJumperApp
+28 Nov 2016, 18:50:35.176 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.home=C:\Program Files\Java\jre1.8.0_111
+28 Nov 2016, 18:50:35.176 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.arch.data.model=32
+28 Nov 2016, 18:50:35.177 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.specification.version=1.8
+28 Nov 2016, 18:50:35.177 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.class.path=C:\Users\hp\Desktop\JAVA NEON\PacJumper\bin;C:\Users\hp\Desktop\JAVA NEON\PacJumper\lib\FXGL-0.2.8-uber.jar
+28 Nov 2016, 18:50:35.177 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.name=hp
+28 Nov 2016, 18:50:35.177 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] file.encoding=Cp1252
+28 Nov 2016, 18:50:35.178 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.specification.version=1.8
+28 Nov 2016, 18:50:35.178 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.awt.printerjob=sun.awt.windows.WPrinterJob
+28 Nov 2016, 18:50:35.178 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.timezone=Asia/Calcutta
+28 Nov 2016, 18:50:35.178 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.home=C:\Users\hp
+28 Nov 2016, 18:50:35.179 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] os.version=6.1
+28 Nov 2016, 18:50:35.179 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.management.compiler=HotSpot Client Compiler
+28 Nov 2016, 18:50:35.179 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.specification.name=Java Platform API Specification
+28 Nov 2016, 18:50:35.179 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.class.version=52.0
+28 Nov 2016, 18:50:35.180 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.library.path=C:\Program Files\Java\jre1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_111/bin/client;C:/Program Files/Java/jre1.8.0_111/bin;C:/Program Files/Java/jre1.8.0_111/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Perl\site\bin;C:\Perl\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin;%CommonProgramFiles%\Microsoft Shared\Windows Live;C:\TCWIN45\BIN;C:\eclipse;;.
+28 Nov 2016, 18:50:35.180 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.jnu.encoding=Cp1252
+28 Nov 2016, 18:50:35.180 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] os.name=Windows 7
+28 Nov 2016, 18:50:35.181 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.variant=
+28 Nov 2016, 18:50:35.181 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.specification.vendor=Oracle Corporation
+28 Nov 2016, 18:50:35.181 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.io.tmpdir=C:\Users\hp\AppData\Local\Temp\
+28 Nov 2016, 18:50:35.181 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] line.separator=
+
+28 Nov 2016, 18:50:35.182 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.endorsed.dirs=C:\Program Files\Java\jre1.8.0_111\lib\endorsed
+28 Nov 2016, 18:50:35.182 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] os.arch=x86
+28 Nov 2016, 18:50:35.182 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] javafx.runtime.version=8.0.111-b14
+28 Nov 2016, 18:50:35.182 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+28 Nov 2016, 18:50:35.183 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.runtime.version=1.8.0_111-b14
+28 Nov 2016, 18:50:35.183 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.specification.name=Java Virtual Machine Specification
+28 Nov 2016, 18:50:35.183 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.dir=C:\Users\hp\Desktop\JAVA NEON\PacJumper
+28 Nov 2016, 18:50:35.183 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.country=US
+28 Nov 2016, 18:50:35.184 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] user.script=
+28 Nov 2016, 18:50:35.184 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.java.launcher=SUN_STANDARD
+28 Nov 2016, 18:50:35.184 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.os.patch.level=Service Pack 1
+28 Nov 2016, 18:50:35.184 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.name=Java HotSpot(TM) Client VM
+28 Nov 2016, 18:50:35.184 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] file.encoding.pkg=sun.io
+28 Nov 2016, 18:50:35.185 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] path.separator=;
+28 Nov 2016, 18:50:35.185 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.vendor=Oracle Corporation
+28 Nov 2016, 18:50:35.185 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vendor.url=http://java.oracle.com/
+28 Nov 2016, 18:50:35.185 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] sun.boot.library.path=C:\Program Files\Java\jre1.8.0_111\bin
+28 Nov 2016, 18:50:35.186 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.vm.version=25.111-b14
+28 Nov 2016, 18:50:35.186 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] java.runtime.name=Java(TM) SE Runtime Environment
+28 Nov 2016, 18:50:35.186 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] javafx.version=8.0.111
+28 Nov 2016, 18:50:35.190 [   INFO] [   FXGL.SystemLogger] [JavaFX Application Thread] FXGL-0.2.8
+28 Nov 2016, 18:50:35.191 [   INFO] [   FXGL.SystemLogger] [JavaFX Application Thread] Source code and latest versions at: https://github.com/AlmasB/FXGL
+28 Nov 2016, 18:50:35.191 [   INFO] [   FXGL.SystemLogger] [JavaFX Application Thread]              Join the FXGL chat at: https://gitter.im/AlmasB/FXGL
+28 Nov 2016, 18:50:35.198 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Starting JavaFX
+28 Nov 2016, 18:50:35.203 [  FINER] [   FXGL.SystemLogger] [          JavaFX-Launcher] Initializing FXGL
+28 Nov 2016, 18:50:35.222 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Starting FXGL
+28 Nov 2016, 18:50:35.551 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Configuring FXGL
+28 Nov 2016, 18:50:35.551 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Initializing system properties
+28 Nov 2016, 18:50:35.588 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] sound.notification = system/notification.wav
+28 Nov 2016, 18:50:35.588 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] url.storage = https://raw.githubusercontent.com/AlmasB/git-server/master/storage/
+28 Nov 2016, 18:50:35.589 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] asset.cache.size = 35
+28 Nov 2016, 18:50:35.589 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] fs.profiledir = profiles/
+28 Nov 2016, 18:50:35.589 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] url.pom = https://raw.githubusercontent.com/AlmasB/FXGL/master/pom.xml
+28 Nov 2016, 18:50:35.589 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] fs.datafile.ext = .dat
+28 Nov 2016, 18:50:35.590 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] sound.menu.back = menu/back.wav
+28 Nov 2016, 18:50:35.590 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] sound.menu.select = menu/select.wav
+28 Nov 2016, 18:50:35.590 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] url.github = https://github.com/AlmasB/FXGL
+28 Nov 2016, 18:50:35.590 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] physics.ppm = 50.0
+28 Nov 2016, 18:50:35.591 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] ui.css = fxgl.css
+28 Nov 2016, 18:50:35.591 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] version.check.days = 7
+28 Nov 2016, 18:50:35.591 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] fs.savefile.ext = .sav
+28 Nov 2016, 18:50:35.591 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] pooling.initialSize = 128
+28 Nov 2016, 18:50:35.592 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] ui.font = Copperplate_Gothic_Light_Regular.ttf
+28 Nov 2016, 18:50:35.592 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] fs.savedir = saves/
+28 Nov 2016, 18:50:35.592 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] fs.profilename = user.profile
+28 Nov 2016, 18:50:35.592 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] ui.icon.name = fxgl_icon.png
+28 Nov 2016, 18:50:35.593 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] sound.menu.press = menu/press.wav
+28 Nov 2016, 18:50:35.593 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Initializing user properties
+28 Nov 2016, 18:50:35.594 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] ui.font = sf_atarian_system.ttf
+28 Nov 2016, 18:50:35.595 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Initializing app settings
+28 Nov 2016, 18:50:35.605 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Logging settings
+Title: Pac The Jumper
+Version: 0.2
+Width: 900
+Height: 650
+Fullscreen: false
+Intro: false
+Menus: true
+Profiling: false
+App Mode: DEVELOPER
+Menu Style: FXGL_DEFAULT
+Menu Key: ESCAPE
+Services: []
+28 Nov 2016, 18:50:36.486 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] FXGL configuration complete
+28 Nov 2016, 18:50:36.487 [   INFO] [   FXGL.SystemLogger] [     FXGL Launcher Thread] FXGL configuration took:  0.935 sec
+28 Nov 2016, 18:50:36.489 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Running task: UpdaterTask
+28 Nov 2016, 18:50:36.494 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Running task: PreInitTask
+28 Nov 2016, 18:50:36.616 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Running task: InitScenesTask
+28 Nov 2016, 18:50:37.128 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Running task: InitEventHandlersTask
+28 Nov 2016, 18:50:37.160 [  FINER] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Running task: InitProfilerTask
+28 Nov 2016, 18:50:37.240 [   INFO] [   FXGL.SystemLogger] [     FXGL Launcher Thread] Game configuration took:  0.746 sec
+28 Nov 2016, 18:51:17.585 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Exiting Normally
+28 Nov 2016, 18:51:17.619 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Exiting FXGL
+28 Nov 2016, 18:51:17.620 [  FINER] [   FXGL.SystemLogger] [JavaFX Application Thread] Logger is closing
